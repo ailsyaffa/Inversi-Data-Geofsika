@@ -11,11 +11,15 @@ Umumnya, kegiatan eksplorasi geofisika dilakukan untuk membuat model bawah permu
 
 1.	Seismik refleksi dengan asumsi bidang reflektor miring
  
- <img https://github.com/ailsyaffa/Inversi-Data-Geofsika/blob/master/picture/pic1.png>
+ <img src="https://github.com/ailsyaffa/Inversi-Data-Geofsika/blob/master/picture/pic1.png">
  
 (Sumber: Supriyanto, 2007)
 
+<img src="https://github.com/ailsyaffa/Inversi-Data-Geofsika/blob/master/picture/pic2.png">
+
 2.	Seismik refleksi dengan asumsi bidang reflektor datar
+  
+  <img src="https://github.com/ailsyaffa/Inversi-Data-Geofsika/blob/master/picture/pic3.png">
   
 (Sumber: GPG, 2017)
 
