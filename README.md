@@ -3,7 +3,7 @@ Program Inversi Data Geofisika
 Ailsa Syaffa Dynia (1806199871)
 Anugrah Indah Lestari (1906324302)
 
-*Program Inversi Data Geofisika*
+##Program Inversi Data Geofisika
 Umumnya, kegiatan eksplorasi geofisika dilakukan untuk membuat model bawah permukaan bumi berdasarkan pengukuran lapangan. Penghubung antara parameter fisis dan data observasi adalah berupa model matematika sehingga diperoleh parameter fisis bawah permukaan yang disebut sebagai proses inversi. Dalam program menggunakan bahasa C ini, terdapat empat jenis permasalah dalam bidang geofisika yang diselesaikan yakni:
 1.	Seismik refleksi dengan asumsi bidang reflektor miring
   
