@@ -39,6 +39,9 @@ dimana Gt merupakan transpose dari matriks kernel.
 Parameter fisis batuan di bawah permukaan dapat diperoleh melalui nilai parameter model dan persamaan matematis yang terdapat pada permasalahan geofisika tersebut.
 
 Referensi:
-Elhaj, K. 2016. Subsurface Delineation and Cavity Investigation Using Geophysical Methods in Gua Musang, Kelantan, Malaysia. Master Thesis. DOI: 10.13140/RG.2.2.33212.85129
+
+Elhaj, K. 2016. Subsurface Delineation and Cavity Investigation Using Geophysical Methods in Gua Musang, Kelantan, Malaysia. *Master Thesis*. DOI: 10.13140/RG.2.2.33212.85129
+
 Geophysics for Practicing Geoscientists (GPG). 2017. Travel times, https://gpg.geosci.xyz/content/seismic/traveltimes.html. Diakses pada 10 Oktober 2019
-Supriyanto. 2007. Analisis Data Geofisika: Memahami Teori Inversi. Departemen Fisika-FMIPA Universitas Indonesia: Jakarta
+
+Supriyanto. 2007. *Analisis Data Geofisika: Memahami Teori Inversi*. Departemen Fisika-FMIPA Universitas Indonesia: Jakarta
